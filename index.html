@@ -14,7 +14,7 @@ description: "Michel relate sa sagesse"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Publié par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Publié par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} le {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
