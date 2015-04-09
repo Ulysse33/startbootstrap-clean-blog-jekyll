@@ -3,7 +3,7 @@ title: Michel de Silva, New kid on the blogues
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 description: "Il s'agit de chercher ce qu'on peut offrir d'information!"
-baseurl: ""
+baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://racheletmichel.com"
 twitter_username: SBootstrap
 github_username:  davidtmiller
