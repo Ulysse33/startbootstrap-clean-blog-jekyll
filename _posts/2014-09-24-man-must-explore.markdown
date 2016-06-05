@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
-subtitle:   "Problems look mighty small from 150 miles up"
-date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+title:      "Agglomération compétitive"
+subtitle:   "La notion de grappe industrielle peut s'appliquer aux entreprises de services."
+date:       2016-06-05 16:50:00
+author:     "Michel de Silva"
 header-img: "img/post-bg-06.jpg"
 ---
 
